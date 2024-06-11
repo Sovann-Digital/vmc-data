@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styles */
+body {
+    font-family: "Montserrat", sans-serif;
+    background-color: rgb(43, 37, 40);
+    color: #efefef;
+}
+
+/* Header Styles */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 10%;
+}
+
+header * {
+    color: #efefef;
+    text-decoration: none;
+}
+
+.logo {
+    cursor: pointer;
+}
+
+.nav_link {
+    list-style-type: none;
+    display: flex;
+}
+
+.nav_link li {
+    margin-right: 20px;
+}
+
+.nav_link li:last-child {
+    margin-right: 0;
+}
+
+.nav_link li a {
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.hamburger {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.hamburger span {
+    height: 3px;
+    width: 25px;
+    background: #efefef;
+    margin-bottom: 4px;
+    border-radius: 5px;
+}
+
+/* Main Content Styles */
+.main-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-me {
+    background-color: #333;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card-me:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.card-me img {
+    width: 80%;
+    max-width: 300px;
+    border-radius: 8px;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
+.card-me .description {
+    text-align: center;
+}
+
+.card-me h1 {
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+
+.card-me p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #d3d3d3;
+}
+
+/* Production Section Styles */
+.production {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    width: 100%;
+}
+
+.production .card-news {
+    background-color: #333;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.production .card-news:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.production .card-news img {
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
+
+.production .card-news .description {
+    padding: 20px;
+}
+
+.production .card-news .description h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.production .card-news .description p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #d3d3d3;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    header {
+        padding: 20px 5%;
+    }
+
+    .nav_link {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(43, 37, 40, 0.9);
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        transform: translateY(-100%);
+        transition: transform 0.3s ease-in-out;
+    }
+
+    .nav_link.nav_active {
+        transform: translateY(0);
+    }
+
+    .nav_link li {
+        margin-bottom: 20px;
+    }
+
+    .nav_link li:last-child {
+        margin-bottom: 0;
+    }
+
+    .img-container {
+        display: flex;
+        justify-content: center;
+        width: 50%;
+        border-radius: 10px;
+    }
+
+    .hamburger {
+        display: flex;
+    }
+
+    /* Main Content Styles */
+    .main-container {
+        padding: 20px 5%;
+    }
+
+    .card-me {
+        padding: 20px;
+    }
+
+    .card-me img {
+        width: 80%;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+
+    .card-me .description {
+        text-align: center;
+        margin-top: 0;
+    }
+
+    .close-btn {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        background: none;
+        border: none;
+        color: #efefef;
+        font-size: 30px;
+        cursor: pointer;
+    }
+}
+
+/* 404 Page Styles */
+.page-404 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+}
+
+.page-404 h1 {
+    font-size: 72px;
+    margin-bottom: 20px;
+}
+
+.page-404 p {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #d3d3d3;
+}
+
+.page-404 a {
+    font-size: 18px;
+    color: #efefef;
+    text-decoration: none;
+    background-color: #444;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.page-404 a:hover {
+    background-color: #555;
+}
+
+    </style>
+    <link rel="shortcut icon" href="./images/icon-dark-theme.ico" type="image/x-icon">
+    <title>404 Not Found | CODESHARK</title>
+</head>
+<body>
+    <header>
+        <h1>CODESHARK</h1>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+    </header>
+    <div class="main-container page-404">
+        <h1>404</h1>
+        <p>Oops! The page you are looking for does not exist.</p>
+        <!-- <a href="https://sdau-vmc-2875d31a0e81.herokuapp.com/">Back to Home</a> -->
+        <a href="../">Back to Home</a>
+    </div>
+
+    <script>
+        const hamburger = document.querySelector('.hamburger');
+        const navLink = document.querySelector('.nav_link');
+        const closeBtn = document.querySelector('.close-btn');
+
+        hamburger.addEventListener('click', () => {
+            navLink.classList.toggle('nav_active');
+        });
+
+        closeBtn.addEventListener('click', () => {
+            navLink.classList.remove('nav_active');
+        });
+
+        // Disable right-click on images
+        document.addEventListener('contextmenu', function (e) {
+            if (e.target.tagName === 'IMG') {
+                e.preventDefault();
+            }
+        });
+
+        // Disable dragging of images
+        document.querySelectorAll('img').forEach(img => {
+            img.setAttribute('draggable', false);
+        });
+    </script>
+</body>
+</html>
