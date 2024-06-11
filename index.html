@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="shortcut icon" href="./images/icon-dark-theme.ico" type="image/x-icon">
+    <title>CODESHARK</title>
+</head>
+<body>
+    <header>
+        <h1>CODESHARK</h1>
+        <nav>
+            <ul class="nav_link">
+                <button class="close-btn">&times;</button>
+                <li><a href="#main">Home</a></li>
+                <li><a href="#productions">Production</a></li>
+                <!-- <li><a href="./auth/authentication.html" class="login">Login</a></li> -->
+            </ul>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+    </header>
+    <div class="main-container" id="main">
+        <div class="main">
+            <div class="card-me">
+                <div class="img-container">
+                    <img src="./me.jpg" class="my-profile" alt="Profile Picture of Morm Leapsovann">
+                </div>
+                <div class="description">
+                    <h1>Who am I?</h1>
+                    <p>Hello! I'm Morm Leapsovann, a programmer who loves coding and technology. I solve complex problems and create efficient solutions. My passion is developing web applications and writing clean code.</p>
+                </div>
+            </div>
+        </div>
+        <div class="production" id="productions">
+            <!--<div class="card-news">
+                <img src="./images/icon-dark-theme.png" alt="news" class="themnale">
+                <div class="description">
+                    <h2>Title</h2>
+                    <p>Description</p>
+                </div>
+            </div>
+            <div class="card-news">
+                <img src="./images/icon-dark-theme.png" alt="news" class="themnale">
+                <div class="description">
+                    <h2>Title</h2>
+                    <p>Description</p>
+                </div>
+            </div> -->
+        </div> 
+    </div>
+
+    <script>
+        const hamburger = document.querySelector('.hamburger');
+        const navLink = document.querySelector('.nav_link');
+        const closeBtn = document.querySelector('.close-btn');
+
+        hamburger.addEventListener('click', () => {
+            navLink.classList.toggle('nav_active');
+        });
+
+        closeBtn.addEventListener('click', () => {
+            navLink.classList.remove('nav_active');
+        });
+
+        // Disable right-click on images
+        document.addEventListener('contextmenu', function (e) {
+            if (e.target.tagName === 'IMG') {
+                e.preventDefault();
+            }
+        });
+
+    </script>
+</body>
+</html>
