@@ -3,15 +3,22 @@
 Thank you for using this code! Please make sure to give credit to the original authors and sources. Have a great day! ❤️😘
 
 <====================`(*>﹏<*)′========================>
-|                                   Here the credits I take from, so don't forget to include them too!! 😊                                      |
-|                                                                                                                                                |
-|       => Telegram: [www.telegram.org](https://www.telegram.org)                                                                                 |
-|       => Heroku: [www.heroku.com](https://www.heroku.com)                                                                                       |
-|       => GitHub: [www.github.com](https://www.github.com)                                                                                       |
-|       => @Programmer: "ម៉ម លៀបសុវណ្ណ"                                                                                                          |
-|       => @Mentor: "នន់ សុវណ្ណរាជ"                                                                                                               |
-|       => @Team: "ជឿម ករុណាបុត្រ", "ជឿន គឹមលាង", "ម៉ម លៀបសុវណ្ណ", "មួន វិមាន"                                                              |
-|                                                                                                                                                |
+|  Here the credits I take from, so don't forget to include them too!! 😊                                      
+
+|       => Telegram: [www.telegram.org](https://www.telegram.org)                                                     
+
+|       => Heroku: [www.heroku.com](https://www.heroku.com)                                                                                     
+
+|       => GitHub: [www.github.com](https://www.github.com)                                                                            
+
+|       => @Programmer: "ម៉ម លៀបសុវណ្ណ"                                                                                                        
+
+|       => @Mentor: "នន់ សុវណ្ណរាជ"                                                                                                               
+
+|       => @Team: "ជឿម ករុណាបុត្រ", "ជឿន គឹមលាង", "ម៉ម លៀបសុវណ្ណ", "មួន វិមាន"                                                             
+
+|                                                                                                                                               
+
 <===============◜          Ͼreadit        ◝================>
 |=============== ◟d====(￣▽￣*)b◞================|
 
