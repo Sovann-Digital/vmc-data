@@ -1,36 +1,47 @@
-Hi My name is Sovann! if you read this note it mean you are trying using my code.So please give me a creadit for this compitation about this code . 
-								and thank you for using my code have a good day!❤️😘
+# Telegram Bot Deployment Guide
+
+Thank you for using this code! Please make sure to give credit to the original authors and sources. Have a great day! ❤️😘
 
 <================================================`(*>﹏<*)′================================================>
-|									Here the creadit I take from so don't forget to put it in too!!😊								|
-|																													|
-|		=> Telegram: www.telegram.org																					|
-|		=> HeroKu: www.heroku.com																						|
-|		=> GitHub: www.github.com																						|
-|		=> @Programer: "ម៉ម លៀបសុវណ្ណ"																					|
-|		=> @Mintor: "នន់ សុវណ្ណរាជ"																					|
-|		=> @Team: "ជឿម ករុណាបុត្រ","ជឿន គឹមលាង","ម៉ម លៀបសុវណ្ណ","មួន វិមាន"														|
-|																													|
-|																													|
+|                                   Here the credits I take from, so don't forget to include them too!! 😊                                      |
+|                                                                                                                                                |
+|       => Telegram: [www.telegram.org](https://www.telegram.org)                                                                                 |
+|       => Heroku: [www.heroku.com](https://www.heroku.com)                                                                                       |
+|       => GitHub: [www.github.com](https://www.github.com)                                                                                       |
+|       => @Programmer: "ម៉ម លៀបសុវណ្ណ"                                                                                                          |
+|       => @Mentor: "នន់ សុវណ្ណរាជ"                                                                                                               |
+|       => @Team: "ជឿម ករុណាបុត្រ", "ជឿន គឹមលាង", "ម៉ម លៀបសុវណ្ណ", "មួន វិមាន"                                                              |
+|                                                                                                                                                |
 <============================================ ◜          Ͼreadit        ◝===========================================>
- |============================================ ◟d====(￣▽￣*)b◞===========================================|
+|============================================ ◟d====(￣▽￣*)b◞===========================================|
 
+Thank You! ❤️
 
+## How to Use the Code
 
-													  Thank You!❤️
+### Step 1: Create a Telegram Bot
+1. Go to your Telegram app and create a new bot using the [BotFather](https://core.telegram.org/bots#botfather).
+2. Obtain the token and replace `"TOKEN-Telegram"` with your Telegram bot token in the script.
 
+### Step 2: Update Data
+1. Update the script with your data in `data.js`.
+2. Upload the updated script to your GitHub repository. If you prefer to use the existing data, you can use the old data link provided in the script.
 
+### Step 3: Deploy on Heroku
+1. Create an account on [Heroku](https://www.heroku.com) if you don't already have one.
+2. Create a new app in Heroku.
+3. Upload and deploy your code on Heroku to make it work.
 
-Here how to use the code 
-First    : Go to your telegram and create a new bot by using telegram bot father then take the token and replace the "TOKEN-Telegram" with your token telegram
-Second: update the script for data on data.js than upload to your github but if you want my old data you can using old data link that I already written before.
-Third    : Create your heroku account and app in heroku then upload and deploy your code to make it work	
-◜											-----------------------------------------------------------										◝
-| Software that you need to setup on your device to edit and test code :                                                                                                                         |
-| 1. Javascript    																										 |
-| 2. Json																												 |		
-| 3. Node js																											 |
-| 4. code editor ----> {vscode or vistudio code} 																				 |
-◟											-----------------------------------------------------------										◞
+## Required Software
 
+To edit and test the code on your device, you need to set up the following software:
+1. JavaScript
+2. JSON
+3. Node.js
+4. Code Editor (e.g., Visual Studio Code or VSCode)
 
+---
+
+This guide should help you set up and deploy your Telegram bot successfully. If you have any issues or questions, feel free to reach out through the provided credits.
+
+Happy coding! 🚀
