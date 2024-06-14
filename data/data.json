@@ -1,4 +1,4 @@
-[
+[ 
   {
     "Date": "18/08/2023",
     "Communes": [
@@ -19,7 +19,7 @@
                       },
                       "telegram": ""
                   },
-                  "posterurl": "https://sovann-digital.github.io/vmc-data/images/services/mayor_commune.png",
+                  "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
                   "location": {
                       "latitude": 12.896294954050088,
                       "longitude": 102.9767524532236,
@@ -35,12 +35,45 @@
                       },
                       "telegram": ""
                   },
-                  "posterurl": "https://sovann-digital.github.io/vmc-data/images/services/mayor_village.png",
+                  "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_village.png",
                   "location": {
                       "latitude": 12.896294954050088,
                       "longitude": 102.9767524532236,
                       "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
                   }
+              },
+              {
+                "name": "ការពិគ្រោះជំងឺ(🧑‍⚕️)",
+                "command": "consultation_sdau",
+                "phone": {
+                  "hotline": {
+                          "ស៊ែលខាត": "+85512581654"
+                      },
+                  "telegram": "+85512581654"
+                },
+                "posterurl":"https://sovann-digital.github.io/sdau-data/images/hospital.png",
+                "location": {
+                  "latitude": 12.88987944966021, 
+                  "longitude": 102.97172087294237,
+                  "address": "ភូមិបាណង់ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                }
+              },
+              {
+                "name": "សម្រាលកូន(👩‍⚕️)",
+                "command": "childbirth_sdau",
+                "phone": {
+                  "hotline": {
+                          "ស្មាត": "+85577755055",
+                          "មិតហ្វូន":"+85599440403"
+                      },
+                  "telegram": "+85577755055"
+                },
+                "posterurl":"https://sovann-digital.github.io/sdau-data/images/hospital.png",
+                "location": {
+                  "latitude": 12.88987944966021, 
+                  "longitude": 102.97172087294237,
+                  "address": "ភូមិបាណង់ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                }
               },
               {
                 "name": "អធិការដ្ឋានស្រុករតនមណ្ឌល(👮‍♂️)",
@@ -54,7 +87,7 @@
                       },
                   "telegram": "+85592687171"
                 },
-                "posterurl":"https://sovann-digital.github.io/vmc-data/images/services/police.png",
+                "posterurl":"https://sovann-digital.github.io/sdau-data/images/police.png",
                 "location": {
                   "latitude": 12.88987944966021, 
                   "longitude": 102.97172087294237,
@@ -71,7 +104,7 @@
                       },
                   "telegram": ""
                 },
-                "posterurl":"https://sovann-digital.github.io/vmc-data/images/services/police.png",
+                "posterurl":"https://sovann-digital.github.io/sdau-data/images/police.png",
                 "location": {
                   "latitude": 12.88987944966021, 
                   "longitude": 102.97172087294237,
@@ -88,7 +121,7 @@
                   },
                   "telegram": ""
                 },
-                "posterurl":"https://sovann-digital.github.io/vmc-data/images/services/police.png",
+                "posterurl":"https://sovann-digital.github.io/sdau-data/images/police.png",
                 "location": {
                   "latitude": 12.88987944966021, 
                   "longitude": 102.97172087294237,
@@ -104,7 +137,7 @@
                         },
                   "telegram": ""
                 },
-                "posterurl":"https://sovann-digital.github.io/vmc-data/images/services/police.png",
+                "posterurl":"https://sovann-digital.github.io/sdau-data/images/police.png",
                 "location": {
                   "latitude": 12.89534590686165,
                   "longitude": 102.97594222625128,
@@ -120,7 +153,7 @@
                       },
                   "telegram": ""
                 },
-                "posterurl":"https://sovann-digital.github.io/vmc-data/images/services/police.png",
+                "posterurl":"https://sovann-digital.github.io/sdau-data/images/police.png",
                 "location": {
                   "latitude": 12.88987944966021, 
                   "longitude": 102.97172087294237,
@@ -136,7 +169,7 @@
                       },
                   "telegram": ""
                 },
-                "posterurl":"https://sovann-digital.github.io/vmc-data/images/services/police.png",
+                "posterurl":"https://sovann-digital.github.io/sdau-data/images/police.png",
                 "location": {
                   "latitude": 12.88987944966021, 
                   "longitude": 102.97172087294237,
@@ -159,7 +192,7 @@
                       },
                       "telegram": "​"
                   },
-                  "posterurl": "https://sovann-digital.github.io/vmc-data/images/services/mayor_commune.png",
+                  "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
                   "location": {
                       "latitude": 11.5560,
                       "longitude": 104.9282,
@@ -181,7 +214,7 @@
                       },
                       "telegram": "​"
                   },
-                  "posterurl": "https://sovann-digital.github.io/vmc-data/images/services/mayor_commune.png",
+                  "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
                   "location": {
                       "latitude": 11.5560,
                       "longitude": 104.9282,
@@ -195,6 +228,22 @@
             "Services": [
               {
                   "name": "មេឃុំ ស្ដៅ(👨‍⚖️)",
+                  "command": "boeng_ampil_chief",
+                  "phone": {
+                      "hotline": {
+                          "មិតហ្វូន": "+8559230280"
+                      },
+                      "telegram": "​"
+                  },
+                  "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_village.png",
+                  "location": {
+                      "latitude": 11.5560,
+                      "longitude": 104.9282,
+                      "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  }
+              },
+              {
+                  "name": "មេឃុំ ​ភូមិ(👨‍⚖️)",
                   "command": "sdau_mayor",
                   "phone": {
                       "hotline": {
@@ -203,13 +252,14 @@
                       },
                       "telegram": "​"
                   },
-                  "posterurl": "https://sovann-digital.github.io/vmc-data/images/services/mayor_commune.png",
+                  "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
                   "location": {
                       "latitude": 11.5560,
                       "longitude": 104.9282,
                       "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
                   }
-              }]
+              }
+            ]
           },
           {
             "name": "ភូមិដង្គត់",
@@ -225,7 +275,7 @@
                       },
                       "telegram": "​"
                   },
-                  "posterurl": "https://sovann-digital.github.io/vmc-data/images/services/mayor_commune.png",
+                  "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
                   "location": {
                       "latitude": 11.5560,
                       "longitude": 104.9282,
@@ -247,7 +297,7 @@
                       },
                       "telegram": "​"
                   },
-                  "posterurl": "https://sovann-digital.github.io/vmc-data/images/services/mayor_commune.png",
+                  "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
                   "location": {
                       "latitude": 11.5560,
                       "longitude": 104.9282,
@@ -269,7 +319,7 @@
                       },
                       "telegram": "​"
                   },
-                  "posterurl": "https://sovann-digital.github.io/vmc-data/images/services/mayor_commune.png",
+                  "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
                   "location": {
                       "latitude": 11.5560,
                       "longitude": 104.9282,
@@ -291,7 +341,7 @@
                       },
                       "telegram": "​"
                   },
-                  "posterurl": "https://sovann-digital.github.io/vmc-data/images/services/mayor_commune.png",
+                  "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
                   "location": {
                       "latitude": 11.5560,
                       "longitude": 104.9282,
@@ -317,7 +367,7 @@
                       },
                       "telegram": ""
                   },
-                  "posterurl": "https://sovann-digital.github.io/vmc-data/images/services/mayor_commune.png",
+                  "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
                   "location": {
                       "latitude": 11.5560,
                       "longitude": 104.9282,
@@ -333,7 +383,7 @@
                       },
                       "telegram": ""
                   },
-                  "posterurl": "https://sovann-digital.github.io/vmc-data/images/services/mayor_village.png",
+                  "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_village.png",
                   "location": {
                       "latitude": 11.5560,
                       "longitude": 104.9282,
