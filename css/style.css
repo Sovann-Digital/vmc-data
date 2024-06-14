@@ -97,7 +97,6 @@ header * {
 
 .card-me .description {
     flex: 2;
-    margin-top: 20px;
     padding: 20px;
 }
 
@@ -153,13 +152,24 @@ header * {
     line-height: 1.6;
     color: #d3d3d3;
 }
-.close-btn
-{
+
+.close-btn {
     display: none;
 }
+
+.img-container {
+    display: flex;
+    justify-content: center;
+    width: 40%;
+    border-radius: 10px;
+}
+
 /* Responsive Styles */
 @media (max-width: 768px) {
-    .close-btn {display: block;}
+    .close-btn {
+        display: block;
+    }
+
     header {
         padding: 20px 5%;
     }
@@ -191,36 +201,35 @@ header * {
     }
 
     .img-container {
-        display: flex;
-        justify-content: center;
-        width: 50%;
-        border-radius: 10px;
+        width: 80%;
+        margin-bottom: 20px;
+        padding: 20px 5%;
     }
 
     .hamburger {
         display: flex;
     }
 
-    /* Main Content Styles */
-    .main-container {
-        padding: 20px 5%;
+    .main-container img {
+        display: none;
     }
 
     .card-me {
         padding: 20px;
         flex-direction: column;
         align-items: center;
+        text-align: center;
     }
 
     .card-me img {
-        width: 80%;
+        width: 100%;
         margin-right: 0;
         margin-bottom: 20px;
     }
 
     .card-me .description {
-        text-align: center;
         margin-top: 0;
+        padding: 0;
     }
 
     .close-btn {
