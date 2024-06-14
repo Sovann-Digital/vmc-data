@@ -64,7 +64,7 @@ header * {
 /* Main Content Styles */
 .main-container {
     max-width: 1200px;
-    margin: 0 auto;
+/*     margin: 0 auto; */
     padding: 20px 20px;
     display: flex;
     flex-direction: column;
