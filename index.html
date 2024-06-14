@@ -6,6 +6,254 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="shortcut icon" href="./images/icon-dark-theme.ico" type="image/x-icon">
     <title>CODESHARK</title>
+    <style>
+        /* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styles */
+body {
+    font-family: "Montserrat", sans-serif;
+    background-color: rgb(43, 37, 40);
+    color: #efefef;
+}
+
+/* Header Styles */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 10%;
+}
+
+header * {
+    color: #efefef;
+    text-decoration: none;
+}
+
+.logo {
+    cursor: pointer;
+}
+
+.nav_link {
+    list-style-type: none;
+    display: flex;
+}
+
+.nav_link li {
+    margin-right: 20px;
+}
+
+.nav_link li:last-child {
+    margin-right: 0;
+}
+
+.nav_link li a {
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.hamburger {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.hamburger span {
+    height: 3px;
+    width: 25px;
+    background: #efefef;
+    margin-bottom: 4px;
+    border-radius: 5px;
+}
+
+/* Main Content Styles */
+.main-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-me {
+    background-color: #333;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card-me:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.card-me img {
+    width: 40%;
+    flex: 1;
+    border-radius: 8px;
+    object-fit: cover;
+    margin-right: 20px;
+}
+
+.card-me .description {
+    flex: 2;
+    padding: 20px;
+}
+
+.card-me h1 {
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+
+.card-me p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #d3d3d3;
+}
+
+/* Production Section Styles */
+.production {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    width: 100%;
+}
+
+.production .card-news {
+    background-color: #333;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.production .card-news:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.production .card-news img {
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
+
+.production .card-news .description {
+    padding: 20px;
+}
+
+.production .card-news .description h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.production .card-news .description p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #d3d3d3;
+}
+
+.close-btn {
+    display: none;
+}
+
+.img-container {
+    display: flex;
+    justify-content: center;
+    width: 40%;
+    border-radius: 10px;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .close-btn {
+        display: block;
+    }
+
+    header {
+        padding: 20px 5%;
+    }
+
+    .nav_link {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(43, 37, 40, 0.9);
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        transform: translateY(-100%);
+        transition: transform 0.3s ease-in-out;
+    }
+
+    .nav_link.nav_active {
+        transform: translateY(0);
+    }
+
+    .nav_link li {
+        margin-bottom: 20px;
+    }
+
+    .nav_link li:last-child {
+        margin-bottom: 0;
+    }
+
+    .img-container {
+        width: 80%;
+        margin-bottom: 20px;
+        padding: 20px 5%;
+    }
+
+    .hamburger {
+        display: flex;
+    }
+
+    .main-container img {
+        display: none;
+    }
+
+    .card-me {
+        padding: 20px;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .card-me img {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+
+    .card-me .description {
+        margin-top: 0;
+        padding: 0;
+    }
+
+    .close-btn {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        background: none;
+        border: none;
+        color: #efefef;
+        font-size: 30px;
+        cursor: pointer;
+    }
+}
+
+    </style>
 </head>
 <body>
     <header>
