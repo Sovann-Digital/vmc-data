@@ -13,32 +13,32 @@
             "subservices": [
               {
                 "command": "mayorsdau",
-                "name": "មេឃុំ ស្ដៅ(👨‍⚖️)",
                 "hotlines": {
-                  "ស៊ែលខាត": "+85512270878",
-                  "មិតហ្វូន": "+855976027878"
+                  "មិតហ្វូន": "+855976027878",
+                  "ស៊ែលខាត": "+85512270878"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេឃុំ ស្ដៅ(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               },
               {
                 "command": "cheifsdau",
-                "name": "មេភូមិ ស្ដៅ(👨‍⚖️)",
                 "hotlines": {
                   "មិតហ្វូន": "+855978198800"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_village.png"
+                "name": "មេភូមិ ស្ដៅ(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_village.png",
+                "telegram": ""
               }
             ]
           },
@@ -48,62 +48,62 @@
             "subservices": [
               {
                 "command": "consultationsdau",
-                "name": "ការពិគ្រោះជំងឺ(🧑‍⚕️)",
                 "hotlines": {
                   "ស៊ែលខាត": "+85512581654"
                 },
-                "telegram": "+85512581654",
                 "location": {
+                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl":"https://sovann-digital.github.io/sdau-data/images/hospital.png"
+                "name": "ការពិគ្រោះជំងឺ(🧑‍⚕️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/hospital.png",
+                "telegram": "+85512581654"
               },
               {
                 "command": "generalcareroomsdau",
-                "name": "បន្ទប់ថែទាំជំងឺទូទៅ (👨‍⚕️)",
                 "hotlines": {
-                  "ស៊ែលខាត": "+85512700731",
-                  "មិតហ្វូន": "+855976700731"
+                  "មិតហ្វូន": "+855976700731",
+                  "ស៊ែលខាត": "+85512700731"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl":"https://sovann-digital.github.io/sdau-data/images/hospital.png"
+                "name": "បន្ទប់ថែទាំជំងឺទូទៅ (👨‍⚕️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/hospital.png",
+                "telegram": ""
               },
               {
                 "command": "consultingandtreatmentroomsdau",
-                "name": "បន្ទប់ពិគ្រោះជំងឺ និងព្យាបាលជំងឺ  (🧑‍⚕️)",
                 "hotlines": {
-                  "ស្មាត": "+85593453198",
-                  "មិតហ្វូន": "+855975792540"
+                  "មិតហ្វូន": "+855975792540",
+                  "ស្មាត": "+85593453198"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl":"https://sovann-digital.github.io/sdau-data/images/hospital.png"
+                "name": "បន្ទប់ពិគ្រោះជំងឺ និងព្យាបាលជំងឺ  (🧑‍⚕️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/hospital.png",
+                "telegram": ""
               },
               {
                 "command": "childbirthsdau",
-                "name": "សម្រាលកូន(👩‍⚕️)",
                 "hotlines": {
-                  "ស្មាត": "+85577755055",
-                  "មិតហ្វូន":"+85599440403"
+                  "មិតហ្វូន": "+85599440403",
+                  "ស្មាត": "+85577755055"
                 },
-                "telegram": "+85577755055",
                 "location": {
+                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl":"https://sovann-digital.github.io/sdau-data/images/hospital.png"
+                "name": "សម្រាលកូន(👩‍⚕️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/hospital.png",
+                "telegram": "+85577755055"
               }
             ]
           },
@@ -113,106 +113,106 @@
             "subservices": [
               {
                 "command": "applicationsSroksdau",
-                "name": "អធិការដ្ឋានស្រុករតនមណ្ឌល(👮‍♂️)",
                 "hotlines": {
-                  "ស៊ែលខាត": "+85592687171",
                   "មិតហ្វូន": "+855979687171",
                   "មិតហ្វូន 24ម៉ោង": "+855977780139",
+                  "ស៊ែលខាត": "+85592687171",
                   "ឥតគិតថ្លៃ": "117"
                 },
-                "telegram": "+85592687171",
                 "location": {
+                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl":"https://sovann-digital.github.io/sdau-data/images/police.png"
+                "name": "អធិការដ្ឋានស្រុករតនមណ្ឌល(👮‍♂️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/police.png",
+                "telegram": "+85592687171"
               },
               {
                 "command": "applicationssdau",
-                "name": "អធិការដ្ឋាន(👮‍♂️)",
                 "hotlines": {
                   "មិតហ្វូន": "+855977780139",
                   "ឥតគិតថ្លៃ": "117"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl":"https://sovann-digital.github.io/sdau-data/images/police.png"
+                "name": "អធិការដ្ឋាន(👮‍♂️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/police.png",
+                "telegram": ""
               },
               {
                 "command": "applicationssdau",
-                "name": "សេនាធិការ(👮‍♂️)",
                 "hotlines": {
-                  "ស្មាត": "+85592671672",
-                  "មិតហ្វូន": "+85581671672"
+                  "មិតហ្វូន": "+85581671672",
+                  "ស្មាត": "+85592671672"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl":"https://sovann-digital.github.io/sdau-data/images/police.png"
+                "name": "សេនាធិការ(👮‍♂️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/police.png",
+                "telegram": ""
               },
               {
                 "command": "chiefpolicesdau",
-                "name": "នាយប៉ុស្តិ៍នគរបាល ស្ដៅ(👮‍♂️)",
                 "hotlines": {
                   "ស៊ែលខាត": "+85577488757"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl":"https://sovann-digital.github.io/sdau-data/images/police.png"
+                "name": "នាយប៉ុស្តិ៍នគរបាល ស្ដៅ(👮‍♂️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/police.png",
+                "telegram": ""
               },
               {
                 "command": "antidrugsdau",
-                "name": "នគរបាលប្រឆាំងគ្រឿងញៀន(👮‍♂️)",
                 "hotlines": {
                   "ស្មាត": "+855885555406"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl":"https://sovann-digital.github.io/sdau-data/images/police.png"
+                "name": "នគរបាលប្រឆាំងគ្រឿងញៀន(👮‍♂️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/police.png",
+                "telegram": ""
               },
               {
                 "command": "securitysdau",
-                "name": "នគរបាលសន្តិសុខ(👮‍♂️)",
                 "hotlines": {
                   "ស្មាត": "+855885555406"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl":"https://sovann-digital.github.io/sdau-data/images/police.png"
+                "name": "នគរបាលសន្តិសុខ(👮‍♂️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/police.png",
+                "telegram": ""
               },
               {
                 "command": "firetrucksdau",
-                "name": "រថយន្តពន្លត់អគ្គីភ័យ ឃុំស្ដៅ(🧑‍🚒)",
                 "hotlines": {
                   "មិតហ្វូន": "+855977780139"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl":"https://sovann-digital.github.io/sdau-data/images/police.png"
+                "name": "រថយន្តពន្លត់អគ្គីភ័យ ឃុំស្ដៅ(🧑‍🚒)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/police.png",
+                "telegram": ""
               }
             ]
           }
@@ -228,32 +228,32 @@
             "subservices": [
               {
                 "command": "mayorsdau",
-                "name": "មេឃុំ ស្ដៅ(👨‍⚖️)",
                 "hotlines": {
-                  "ស៊ែលខាត": "+85512270878",
-                  "មិតហ្វូន": "+855976027878"
+                  "មិតហ្វូន": "+855976027878",
+                  "ស៊ែលខាត": "+85512270878"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិបាណង់  ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិបាណង់  ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេឃុំ ស្ដៅ(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               },
               {
                 "command": "cheifbanang",
-                "name": "មេភូមិ បាណង់(👨‍⚖️)",
                 "hotlines": {
                   "មិតហ្វូន": "+855712124168"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិបាណង់ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិបាណង់ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេភូមិ បាណង់(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               }
             ]
           }
@@ -269,32 +269,32 @@
             "subservices": [
               {
                 "command": "mayorsdau",
-                "name": "មេឃុំ ស្ដៅ(👨‍⚖️)",
                 "hotlines": {
-                  "ស៊ែលខាត": "+85512270878",
-                  "មិតហ្វូន": "+855976027878"
+                  "មិតហ្វូន": "+855976027878",
+                  "ស៊ែលខាត": "+85512270878"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេឃុំ ស្ដៅ(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               },
               {
                 "command": "cheifchamkarlmut",
-                "name": "មេភូមិ ចំការល្មុត(👨‍⚖️)",
                 "hotlines": {
                   "ស៊ែលខាត": "+8556850825"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិចំការល្មុត ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិចំការល្មុត ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេភូមិ ចំការល្មុត(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               }
             ]
           }
@@ -310,32 +310,32 @@
             "subservices": [
               {
                 "command": "mayorsdau",
-                "name": "មេឃុំ ស្ដៅ(👨‍⚖️)",
                 "hotlines": {
-                  "ស៊ែលខាត": "+85512270878",
-                  "មិតហ្វូន": "+855976027878"
+                  "មិតហ្វូន": "+855976027878",
+                  "ស៊ែលខាត": "+85512270878"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេឃុំ ស្ដៅ(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               },
               {
                 "command": "chiefboengampil",
-                "name": "មេភូមិ បឹងអំពិល(👨‍⚖️)",
                 "hotlines": {
                   "ស៊ែលខាត": "+85592930280"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិបឹងអំពិល ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិបឹងអំពិល ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេភូមិ បឹងអំពិល(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               }
             ]
           }
@@ -351,32 +351,32 @@
             "subservices": [
               {
                 "command": "mayorsdau",
-                "name": "មេឃុំ ស្ដៅ(👨‍⚖️)",
                 "hotlines": {
-                  "ស៊ែលខាត": "+85512270878",
-                  "មិតហ្វូន": "+855976027878"
+                  "មិតហ្វូន": "+855976027878",
+                  "ស៊ែលខាត": "+85512270878"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេឃុំ ស្ដៅ(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               },
               {
                 "command": "cheifdangkot",
-                "name": "មេភូមិ ដង្គត់(👨‍⚖️)",
                 "hotlines": {
                   "មិតហ្វូន": "+855978318282"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិដង្គត់ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិដង្គត់ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេភូមិ ដង្គត់(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               }
             ]
           }
@@ -392,32 +392,32 @@
             "subservices": [
               {
                 "command": "mayorsdau",
-                "name": "មេឃុំ ស្ដៅ(👨‍⚖️)",
                 "hotlines": {
-                  "ស៊ែលខាត": "+85512270878",
-                  "មិតហ្វូន": "+855976027878"
+                  "មិតហ្វូន": "+855976027878",
+                  "ស៊ែលខាត": "+85512270878"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេឃុំ ស្ដៅ(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               },
               {
                 "command": "chiefdounmeay",
-                "name": "មេភូមិ ដូនមាយ(👨‍⚖️)",
                 "hotlines": {
                   "មិតហ្វូន": "+855976449402"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិដូនមាយ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិដូនមាយ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេភូមិ ដូនមាយ(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               }
             ]
           }
@@ -433,32 +433,32 @@
             "subservices": [
               {
                 "command": "mayorsdau",
-                "name": "មេឃុំ ស្ដៅ(👨‍⚖️)",
                 "hotlines": {
-                  "ស៊ែលខាត": "+85512270878",
-                  "មិតហ្វូន": "+855976027878"
+                  "មិតហ្វូន": "+855976027878",
+                  "ស៊ែលខាត": "+85512270878"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេឃុំ ស្ដៅ(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               },
               {
                 "command": "chiefbaribour",
-                "name": "មេភូមិ បរិបូរណ៌(👨‍⚖️)",
                 "hotlines": {
                   "មិតហ្វូន": "+855978212929"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិបរិបូរណ៌ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិបរិបូរណ៌ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេភូមិ បរិបូរណ៌(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               }
             ]
           }
@@ -474,32 +474,32 @@
             "subservices": [
               {
                 "command": "mayorsdau",
-                "name": "មេឃុំ ស្ដៅ(👨‍⚖️)",
                 "hotlines": {
-                  "ស៊ែលខាត": "+85512270878",
-                  "មិតហ្វូន": "+855976027878"
+                  "មិតហ្វូន": "+855976027878",
+                  "ស៊ែលខាត": "+85512270878"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេឃុំ ស្ដៅ(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               },
               {
                 "command": "chiefkoukchoar",
-                "name": "មេភូមិ គោកជ័រ(👨‍⚖️)",
                 "hotlines": {
                   "ស៊ែលខាត": "+855717002073"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិគោកជ័រ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិគោកជ័រ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេភូមិ គោកជ័រ(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               }
             ]
           }
@@ -512,196 +512,196 @@
     "name": "ឃុំអណ្ដើកហែប",
     "villages": [
       {
-        "name":"ភូមិអណ្តើកហែប",
         "command": "hurricane",
-        "services":[
+        "name": "ភូមិអណ្តើកហែប",
+        "services": [
           {
             "command": "gaoverment",
             "name": "អាជ្ញាធរដែនដីស្ដៅ",
             "subservices": [
               {
                 "command": "Hurricanemayor",
-                "name": "មេឃុំ អណ្តើកហែប(👨‍⚖️)",
                 "hotlines": {
-                          "ស្មាត": "+855883325699"
+                  "ស្មាត": "+855883325699"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេឃុំ អណ្តើកហែប(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               },
               {
                 "command": "Hurricanechief",
+                "hotlines": {
+                  "ស្មាត": "+85566329783"
+                },
+                "location": {
+                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
+                  "latitude": 12.896294954050088,
+                  "longitude": 102.9767524532236
+                },
                 "name": "មេភូមិ អណ្តើកហែប(👨‍⚖️)",
-                "hotlines": {
-                          "ស្មាត": "+85566329783"
-                },
-                "telegram": "",
-                "location": {
-                  "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិស្ដៅ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
-                },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_village.png"
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_village.png",
+                "telegram": ""
               }
             ]
           }
         ]
       },
       {
-        "name":"ភូមិស្វាយជួរ",
         "command": "svaychuorvillage",
-        "services":[
+        "name": "ភូមិស្វាយជួរ",
+        "services": [
           {
             "command": "gaoverment",
             "name": "អាជ្ញាធរដែនដីស្ដៅ",
             "subservices": [
               {
                 "command": "Hurricanemayor",
-                "name": "មេឃុំ អណ្តើកហែប(👨‍⚖️)",
                 "hotlines": {
-                          "ស្មាត": "+855883325699"
+                  "ស្មាត": "+855883325699"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិស្វាយជួរ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិស្វាយជួរ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេឃុំ អណ្តើកហែប(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               }
             ]
           }
         ]
       },
       {
-        "name":"ភូមិថ្មព្រួល",
         "command": "thmorproulvillage",
-        "services":[
+        "name": "ភូមិថ្មព្រួល",
+        "services": [
           {
             "command": "gaoverment",
             "name": "អាជ្ញាធរដែនដីស្ដៅ",
             "subservices": [
               {
                 "command": "hurricanemayor",
-                "name": "មេឃុំ អណ្តើកហែប(👨‍⚖️)",
                 "hotlines": {
-                          "ស្មាត": "+855883325699"
+                  "ស្មាត": "+855883325699"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិថ្មព្រួល ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិថ្មព្រួល ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេឃុំ អណ្តើកហែប(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               }
             ]
           }
         ]
       },
       {
-        "name":"ភូមិសេរីវន្ត័",
         "command": "sereyvanvillage",
-        "services":[
+        "name": "ភូមិសេរីវន្ត័",
+        "services": [
           {
             "command": "gaoverment",
             "name": "អាជ្ញាធរដែនដីស្ដៅ",
             "subservices": [
               {
                 "command": "hurricanemayor",
-                "name": "មេឃុំ អណ្តើកហែប(👨‍⚖️)",
                 "hotlines": {
-                          "ស្មាត": "+855883325699"
+                  "ស្មាត": "+855883325699"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិសេរីវន្ត័ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិសេរីវន្ត័ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេឃុំ អណ្តើកហែប(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               }
             ]
           }
         ]
       },
       {
-        "name":"ភូមិព្រៃអំពរ ",
         "command": "preyamporvillage",
-        "services":[
+        "name": "ភូមិព្រៃអំពរ ",
+        "services": [
           {
             "command": "gaoverment",
             "name": "អាជ្ញាធរដែនដីស្ដៅ",
             "subservices": [
               {
                 "command": "Hurricanemayor",
-                "name": "មេឃុំ អណ្តើកហែប(👨‍⚖️)",
                 "hotlines": {
-                          "ស្មាត": "+855883325699"
+                  "ស្មាត": "+855883325699"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិព្រៃអំពរ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិព្រៃអំពរ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេឃុំ អណ្តើកហែប(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               }
             ]
           }
         ]
       },
       {
-        "name":"ភូមិកណ្ដាកស្ទឺង",
         "command": "kandaksteungvillage",
-        "services":[
+        "name": "ភូមិកណ្ដាកស្ទឺង",
+        "services": [
           {
             "command": "gaoverment",
             "name": "អាជ្ញាធរដែនដីស្ដៅ",
             "subservices": [
               {
                 "command": "Hurricanemayor",
-                "name": "មេឃុំ អណ្តើកហែប(👨‍⚖️)",
                 "hotlines": {
-                          "ស្មាត": "+855883325699"
+                  "ស្មាត": "+855883325699"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិកណ្ដាកស្ទឺង ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិកណ្ដាកស្ទឺង ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេឃុំ អណ្តើកហែប(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               }
             ]
           }
         ]
       },
       {
-        "name":"ភូមិថ្វាក់",
         "command": "thvakvillage",
-        "services":[
+        "name": "ភូមិថ្វាក់",
+        "services": [
           {
             "command": "gaoverment",
             "name": "អាជ្ញាធរដែនដីស្ដៅ",
             "subservices": [
               {
                 "command": "hurricanemayor",
-                "name": "មេឃុំ អណ្តើកហែប(👨‍⚖️)",
                 "hotlines": {
-                          "ស្មាត": "+855883325699"
+                  "ស្មាត": "+855883325699"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិថ្វាក់ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិថ្វាក់ ឃុំស្ដៅ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេឃុំ អណ្តើកហែប(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               }
             ]
           }
@@ -711,17 +711,11 @@
   },
   {
     "command": "commune3",
-    "name": "ឃុំផ្លូវមាស",
-    "villages": [
-      
-    ]
+    "name": "ឃុំផ្លូវមាស"
   },
   {
     "command": "commune4",
-    "name": "ឃុំត្រែង",
-    "villages": [
-      
-    ]
+    "name": "ឃុំត្រែង"
   },
   {
     "command": "commune5",
@@ -737,31 +731,31 @@
             "subservices": [
               {
                 "command": "mayorturtle",
-                "name": "មេឃុំ រស្មីសង្ហារ(👨‍⚖️)",
                 "hotlines": {
                   "មិតហ្វូន": "+855977698168"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិអណ្ដើក11 ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិអណ្ដើក11 ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេឃុំ រស្មីសង្ហារ(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               },
               {
                 "command": "chiefturtle",
-                "name": "មេភូមិអណ្ដើក11(👨‍⚖️)",
                 "hotlines": {
                   "មិតហ្វូន": "+855719708166"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិអណ្ដើក11 ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិអណ្ដើក11 ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_village.png"
+                "name": "មេភូមិអណ្ដើក11(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_village.png",
+                "telegram": ""
               }
             ]
           }
@@ -777,31 +771,31 @@
             "subservices": [
               {
                 "command": "mayorneanglem",
-                "name": "មេឃុំ រស្មីសង្ហារ(👨‍⚖️)",
                 "hotlines": {
                   "មិតហ្វូន": "+855977698168"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិនាងលេម ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិនាងលេម ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេឃុំ រស្មីសង្ហារ(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               },
               {
                 "command": "cheifneanglem",
-                "name": "មេភូមិ នាងលេម(👨‍⚖️)",
                 "hotlines": {
                   "មិតហ្វូន": "+85585969887"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិនាងលេម ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិនាងលេម ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេភូមិ នាងលេម(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               }
             ]
           }
@@ -817,31 +811,31 @@
             "subservices": [
               {
                 "command": "mayorneanglem",
-                "name": "មេឃុំ រស្មីសង្ហារ(👨‍⚖️)",
                 "hotlines": {
                   "មិតហ្វូន": "+855977698168"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិជេជ្រចង្វា ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិជេជ្រចង្វា ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេឃុំ រស្មីសង្ហារ(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               },
               {
                 "command": "cheifchechchangva",
-                "name": "មេភូមិ ជេជ្រចង្វា(👨‍⚖️)",
                 "hotlines": {
                   "មិតហ្វូន": "+855889791936"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិជេជ្រចង្វា ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិជេជ្រចង្វា ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេភូមិ ជេជ្រចង្វា(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               }
             ]
           }
@@ -857,31 +851,31 @@
             "subservices": [
               {
                 "command": "mayorneanglem",
-                "name": "មេឃុំ រស្មីសង្ហារ(👨‍⚖️)",
                 "hotlines": {
                   "មិតហ្វូន": "+855977698168"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិបាដាកត្បូង ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិបាដាកត្បូង ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេឃុំ រស្មីសង្ហារ(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               },
               {
                 "command": "mayorbadaktbong",
-                "name": "មេភូមិ បាដាកត្បូង(👨‍⚖️)",
                 "hotlines": {
                   "មិតហ្វូន": "+855888199437"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិបាដាកត្បូង ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិបាដាកត្បូង ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេភូមិ បាដាកត្បូង(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               }
             ]
           }
@@ -897,31 +891,31 @@
             "subservices": [
               {
                 "command": "mayorneanglem",
-                "name": "មេឃុំ រស្មីសង្ហារ(👨‍⚖️)",
                 "hotlines": {
                   "មិតហ្វូន": "+855977698168"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិបាដាកជើង ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិបាដាកជើង ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេឃុំ រស្មីសង្ហារ(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               },
               {
                 "command": "mayorbadakcheung",
-                "name": "មេភូមិ បាដាកជើង(👨‍⚖️)",
                 "hotlines": {
                   "មិតហ្វូន": "+855713366161"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិបាដាកជើង ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិបាដាកជើង ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេភូមិ បាដាកជើង(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               }
             ]
           }
@@ -937,31 +931,31 @@
             "subservices": [
               {
                 "command": "mayorneanglem",
-                "name": "មេឃុំ រស្មីសង្ហារ(👨‍⚖️)",
                 "hotlines": {
                   "មិតហ្វូន": "+855977698168"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិអូរដៃខ្លា ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិអូរដៃខ្លា ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេឃុំ រស្មីសង្ហារ(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               },
               {
                 "command": "mayorodaikhla",
-                "name": "មេភូមិ អូរដៃខ្លា(👨‍⚖️)",
                 "hotlines": {
                   "មិតហ្វូន": "+85595648430"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិអូរដៃខ្លា ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិអូរដៃខ្លា ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេភូមិ អូរដៃខ្លា(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               }
             ]
           }
@@ -977,31 +971,31 @@
             "subservices": [
               {
                 "command": "mayorneanglem",
-                "name": "មេឃុំ រស្មីសង្ហារ(👨‍⚖️)",
                 "hotlines": {
                   "មិតហ្វូន": "+855977698168"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិអូរឃ្មុំ ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិអូរឃ្មុំ ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេឃុំ រស្មីសង្ហារ(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               },
               {
                 "command": "mayorokhmum",
-                "name": "មេឃុំ អូរឃ្មុំ(👨‍⚖️)",
                 "hotlines": {
                   "មិតហ្វូន": "+85592918118"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិអូរឃ្មុំ ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិអូរឃ្មុំ ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេឃុំ អូរឃ្មុំ(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               }
             ]
           }
@@ -1017,31 +1011,31 @@
             "subservices": [
               {
                 "command": "mayorneanglem",
-                "name": "មេឃុំ រស្មីសង្ហារ(👨‍⚖️)",
                 "hotlines": {
                   "មិតហ្វូន": "+855977698168"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិរសហមីសង្ហារ ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិរសហមីសង្ហារ ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេឃុំ រស្មីសង្ហារ(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               },
               {
                 "command": "mayorsahamisanghar",
-                "name": "មេភូមិ រស្មីសង្ហារ(👨‍⚖️)",
                 "hotlines": {
                   "មិតហ្វូន": "+8559793404337"
                 },
-                "telegram": "",
                 "location": {
+                  "address": "ភូមិរស្មីសង្ហារ ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង",
                   "latitude": 12.896294954050088,
-                  "longitude": 102.9767524532236,
-                  "address": "ភូមិរស្មីសង្ហារ ឃុំរស្មីសង្ហារ ស្រុករតនមណ្ឌល ខេត្តបាត់ដំបង"
+                  "longitude": 102.9767524532236
                 },
-                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png"
+                "name": "មេភូមិ រស្មីសង្ហារ(👨‍⚖️)",
+                "posterurl": "https://sovann-digital.github.io/sdau-data/images/mayor_commune.png",
+                "telegram": ""
               }
             ]
           }
